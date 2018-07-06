@@ -5,7 +5,7 @@ Using Python, I coded a game that allows the player to keep guessing a generated
 - If the player wins, they'll read "You win! and the game ends"
 
 ### Tips
-- Type <kbd>Ctrl + C</kbd> to kill the game
+- Type <kbd>Ctrl</kbd> + <kbd>C</kbd> to kill the game
 - For testing purposes, uncomment line 5 <code>print random_number</code> to see the randomly generated number
 
 #
